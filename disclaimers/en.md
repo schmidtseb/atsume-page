@@ -5,7 +5,7 @@
 Sebastian Schmidt  
 Private person  
 Germany  
-E-Mail: schm.seb@gmail.com  
+E-Mail: schm.seb@gmail.com
 
 The protection of your personal data is very important to me. Below, I inform you about which data is collected and processed when you visit and use this app/website.
 
@@ -18,7 +18,7 @@ Responsible for data processing in accordance with the General Data Protection R
 Sebastian Schmidt  
 Private person  
 Germany  
-E-Mail: schm.seb@gmail.com  
+E-Mail: schm.seb@gmail.com
 
 ---
 
@@ -28,24 +28,24 @@ When using this app/website, the following personal data is processed:
 
 ### a) Registration and Login
 
-*   E-mail address
-*   User ID (internally assigned by Supabase Auth)
-*   Role (e.g., admin or user)
-*   Display name (if you log in via Google)
+- E-mail address
+- User ID (internally assigned by Supabase Auth)
+- Role (e.g., admin or user)
+- Display name (if you log in via Google)
 
 Purpose: Enabling authentication and management of the user account.
 
 ### b) User Activities and Content
 
-*   Created content such as "stamps", including:
-    *   Name
-    *   Image data (URL, preview)
-    *   Settings (JSON)
-    *   Timestamp
-*   Participation in so-called "Rallies"
-*   Geolocations that you manually save:
-    *   Coordinates, radius, description
-*   Collected stamps (including image data, placement in the logbook)
+- Created content such as "stamps", including:
+  - Name
+  - Image data (URL, preview)
+  - Settings (JSON)
+  - Timestamp
+- Participation in so-called "Rallies"
+- Geolocations that you manually save:
+  - Coordinates, radius, description
+- Collected stamps (including image data, placement in the logbook)
 
 Purpose: Provision of the main functions of the app, such as collecting, creating, and sharing content.
 
@@ -84,12 +84,12 @@ Your data will be stored as long as your user account is active. You can request
 
 According to the GDPR, you have the following rights:
 
-*   Information about your stored data (Art. 15 GDPR)
-*   Correction of inaccurate data (Art. 16 GDPR)
-*   Deletion ("right to be forgotten") (Art. 17 GDPR)
-*   Restriction of processing (Art. 18 GDPR)
-*   Data portability (Art. 20 GDPR)
-*   Objection to processing (Art. 21 GDPR)
+- Information about your stored data (Art. 15 GDPR)
+- Correction of inaccurate data (Art. 16 GDPR)
+- Deletion ("right to be forgotten") (Art. 17 GDPR)
+- Restriction of processing (Art. 18 GDPR)
+- Data portability (Art. 20 GDPR)
+- Objection to processing (Art. 21 GDPR)
 
 To exercise your rights, you can contact me at any time by e-mail:
 schm.seb@gmail.com

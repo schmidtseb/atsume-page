@@ -5,7 +5,7 @@
 Sebastian Schmidt  
 Privatperson  
 Deutschland  
-E-Mail: schm.seb@gmail.com  
+E-Mail: schm.seb@gmail.com
 
 Der Schutz deiner personenbezogenen Daten ist mir ein wichtiges Anliegen. Nachfolgend informiere ich dich darüber, welche Daten beim Besuch und bei der Nutzung dieser App/Website erhoben und verarbeitet werden.
 
@@ -18,7 +18,7 @@ Verantwortlich für die Datenverarbeitung im Sinne der Datenschutz-Grundverordnu
 Sebastian Schmidt  
 Privatperson  
 Deutschland  
-E-Mail: schm.seb@gmail.com  
+E-Mail: schm.seb@gmail.com
 
 ---
 
@@ -28,24 +28,24 @@ Beim Nutzen dieser App/Website werden folgende personenbezogene Daten verarbeite
 
 ### a) Registrierung und Login
 
-*   E-Mail-Adresse
-*   Nutzer-ID (intern vergeben durch Supabase Auth)
-*   Rolle (z. B. admin oder user)
-*   Display-Name (sofern du dich über Google anmeldest)
+- E-Mail-Adresse
+- Nutzer-ID (intern vergeben durch Supabase Auth)
+- Rolle (z. B. admin oder user)
+- Display-Name (sofern du dich über Google anmeldest)
 
 Zweck: Ermöglichung der Authentifizierung und Verwaltung des Nutzerkontos.
 
 ### b) Nutzeraktivitäten und Inhalte
 
-*   Erstellte Inhalte wie „Stempel“, inklusive:
-    *   Name
-    *   Bilddaten (URL, Vorschau)
-    *   Einstellungen (JSON)
-    *   Zeitstempel
-*   Teilnahme an sogenannten „Rallyes“
-*   Geostandorte, die du manuell speicherst:
-    *   Koordinaten, Radius, Beschreibung
-*   Gesammelte Stempel (inkl. Bilddaten, Platzierung im Logbuch)
+- Erstellte Inhalte wie „Stempel“, inklusive:
+  - Name
+  - Bilddaten (URL, Vorschau)
+  - Einstellungen (JSON)
+  - Zeitstempel
+- Teilnahme an sogenannten „Rallyes“
+- Geostandorte, die du manuell speicherst:
+  - Koordinaten, Radius, Beschreibung
+- Gesammelte Stempel (inkl. Bilddaten, Platzierung im Logbuch)
 
 Zweck: Bereitstellung der Hauptfunktionen der App, wie Sammeln, Erstellen und Teilen von Inhalten.
 
@@ -84,12 +84,12 @@ Deine Daten werden so lange gespeichert, wie dein Benutzerkonto aktiv ist. Du ka
 
 Du hast gemäß DSGVO folgende Rechte:
 
-*   Auskunft über deine gespeicherten Daten (Art. 15 DSGVO)
-*   Berichtigung unrichtiger Daten (Art. 16 DSGVO)
-*   Löschung („Recht auf Vergessenwerden“) (Art. 17 DSGVO)
-*   Einschränkung der Verarbeitung (Art. 18 DSGVO)
-*   Datenübertragbarkeit (Art. 20 DSGVO)
-*   Widerspruch gegen die Verarbeitung (Art. 21 DSGVO)
+- Auskunft über deine gespeicherten Daten (Art. 15 DSGVO)
+- Berichtigung unrichtiger Daten (Art. 16 DSGVO)
+- Löschung („Recht auf Vergessenwerden“) (Art. 17 DSGVO)
+- Einschränkung der Verarbeitung (Art. 18 DSGVO)
+- Datenübertragbarkeit (Art. 20 DSGVO)
+- Widerspruch gegen die Verarbeitung (Art. 21 DSGVO)
 
 Zur Ausübung deiner Rechte kannst du dich jederzeit per E-Mail an mich wenden:
 schm.seb@gmail.com
